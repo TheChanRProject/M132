@@ -27,12 +27,32 @@ Agenda:
 		- Simpson's Paradox 
 		- Ethical Implications 
 
-## Second Half Hour:
+## Second and Third Half Hour :
 
-	- Python for Data Science Fundamentals
-		- Data Types and Variables 
-		- Data Structures 
-			- Lists
-			- Dictionaries 
-		- 
+- Python for Data Science Fundamentals
+	- Data Types and Variables 
+	- Data Structures 
+		- Lists
+		- Dictionaries 
+	- Loops and List Comprehensions
+	- Numpy 
+		- Dimensionality and Arrays 
+		- Dot Product and Cross Product 
+		- Solving Systems of Equations
+		- Algebraic Operations
+		- Statistical Operations 
+	- Pandas
+		- Series and DataFrames 
+		- Exploratory Data Analysis
+		- Joining and Merging 
+		- Dealing with Missing Data 
+
+	- Matplotlib and Seaborn 
+		- Histograms
+		- Distribution Plots
+		- Pie Charts 
+		- Word Clouds 
+		- Regression Plots 
+
+
 		 
