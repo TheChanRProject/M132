@@ -54,5 +54,30 @@ Agenda:
 		- Word Clouds 
 		- Regression Plots 
 
+## Fourth, Fifth, Sixth Half Hour :
 
+- Linear Regression 
+	- Mathematical Foundations
+		- Partial Derivatives
+		- Systems of Linear Equations
+		- Sample Means 
+	- Numpy Implementation 
+
+	- Boston Housing Activity Part 1 
+
+- Multiple Linear Regression 
+	- Mathematical Foundations
+		- Matrices and Vector Transposition 
+		- Standard Linear Form Representation 
+	- Numpy Implementation 
+	
+	- Boston Housing Activity Part 2 
+
+- Conclusion
+	- Resources for Further Learning
+	- Summer Internship Opportunities 
+	- M133: Applied Data Science 
+	- Southern California Data Science and Datapreneurs Meetup
+	- Bidding a Temporary Adieu 
+	
 		 
