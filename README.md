@@ -4,7 +4,7 @@ UCLA Splash course modeled after the great success of M270 at Claremont Splash. 
 
 Agenda:
 
-First Half Hour:
+## First Half Hour:
 
 	- Introduction to Data Science 
 		- Venn Diagram Representation
