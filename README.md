@@ -6,24 +6,33 @@ Agenda:
 
 ## First Half Hour:
 
-	- Introduction to Data Science 
-		- Venn Diagram Representation
-		- Different Roles 
-		- Buzz Words
-		- Challenges in the Field 
-			- Access to Data 
-			- The Data Format Jungle 
-			- Ethical Implications 
-			- Assessing Model Fit 
-			- Muddying the Waters of CRISP-DM 
-			- Solutions and Corrigibility 
+- Introduction to Data Science 
+	- Venn Diagram Representation
+	- Different Roles 
+	- Buzz Words
+	- Challenges in the Field 
+		- Access to Data 
+		- The Data Format Jungle 
+		- Ethical Implications 
+		- Assessing Model Fit 
+		- Muddying the Waters of CRISP-DM 
+		- Solutions and Corrigibility 
 
-	- Introduction to Decision Science 
-		- Relation to Data Science 
-		- Different Roles 
-		- Challenges in the Field 
-			- Leveling the Playing Field 
-			- Navigating Decision-Making at Scale 
-			- Simpson's Paradox 
-			- Ethical Implications 
+- Introduction to Decision Science 
+	- Relation to Data Science 
+	- Different Roles 
+	- Challenges in the Field 
+		- Leveling the Playing Field 
+		- Navigating Decision-Making at Scale 
+		- Simpson's Paradox 
+		- Ethical Implications 
+
+## Second Half Hour:
+
+	- Python for Data Science Fundamentals
+		- Data Types and Variables 
+		- Data Structures 
+			- Lists
+			- Dictionaries 
+		- 
 		 
