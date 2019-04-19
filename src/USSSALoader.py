@@ -52,7 +52,7 @@ def getNameList():
     return names
 
 def downloadNames():
-    u = urllib2.urlopen('https://github.com/downloads/sholiday/genderPredictor/names.zip')
+    u = urllib3.urlopen('https://github.com/downloads/sholiday/genderPredictor/names.zip')
     localFile = open('names.zip', 'w')
     localFile.write(u.read())
     localFile.close()

@@ -5,7 +5,7 @@ genderPredictor.py
 """
 
 from nltk import NaiveBayesClassifier,classify
-import src.USSSALoader
+import USSSALoader
 import random
 
 class genderPredictor():
