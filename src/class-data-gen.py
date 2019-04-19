@@ -85,3 +85,4 @@ gen = genderPredictor()
 
 
 col4 = [gen.classify(i.split(" ")[0]) for i in col1]
+print(col4) 
