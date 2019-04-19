@@ -5,7 +5,7 @@ USSSALoader.py
 """
 import os
 import re
-import urllib2
+import urllib
 from zipfile import ZipFile
 import csv
 import pickle
@@ -52,7 +52,7 @@ def getNameList():
     return names
 
 def downloadNames():
-    u = urllib2.urlopen('https://github.com/downloads/sholiday/genderPredictor/names.zip')
+    u = urllib.urlopen('https://github.com/downloads/sholiday/genderPredictor/names.zip')
     localFile = open('names.zip', 'w')
     localFile.write(u.read())
     localFile.close()
