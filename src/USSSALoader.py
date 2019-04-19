@@ -12,7 +12,7 @@ import pickle
 
 def getNameList():
     if not os.path.exists('names.pickle'):
-        print 'names.pickle does not exist, generating'
+        print('names.pickle does not exist, generating')
         if not os.path.exists('names.zip'):
             print('names.zip does not exist, downloading from github')
             downloadNames()
