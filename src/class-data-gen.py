@@ -77,3 +77,11 @@ print(len(col3))
 
 data_dict['Grade'] = col3
 print(len(data_dict['Grade']))
+
+# Getting the gender
+
+gen = genderPredictor()
+
+
+
+col4 = [gen.classify(i.split(" ")[0]) for i in col1]
