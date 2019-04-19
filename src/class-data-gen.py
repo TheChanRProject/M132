@@ -1,5 +1,5 @@
 import pandas as pd
-from src.genderPredictor import genderPredictor
+from genderPredictor import genderPredictor
 
 col1 = []
 col1.append('Alexis Chau')
@@ -85,4 +85,4 @@ gen = genderPredictor()
 
 
 col4 = [gen.classify(i.split(" ")[0]) for i in col1]
-print(col4) 
+print(col4)
