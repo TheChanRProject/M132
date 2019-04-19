@@ -73,3 +73,5 @@ col3.append(9)
 col3.append(9)
 col3.append(9)
 print(len(col3))
+
+data_dict['Grade'] = col3 
