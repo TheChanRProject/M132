@@ -86,10 +86,10 @@ class genderPredictor():
 if __name__ == "__main__":
     gp = genderPredictor()
     accuracy=gp.trainAndTest()
-    print('Accuracy: %f'%accuracy)
-    print('Most Informative Features')
+    print 'Accuracy: %f'%accuracy
+    print 'Most Informative Features'
     feats=gp.getMostInformativeFeatures(10)
     for feat in feats:
-        print ('\t%s = %s'%feat)
+        print '\t%s = %s'%feat
     name = raw_input('Enter name to classify: ')
-    print('\n%s is classified as %s'%(name, gp.classify(name)))
+    print '\n%s is classified as %s'%(name, gp.classify(name))
