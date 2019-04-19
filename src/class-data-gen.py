@@ -46,4 +46,7 @@ col2.append('None')
 col2.append('Irvine High School')
 col2.append('Arnold O Beckman High School')
 col2.append('Troy High School')
-col2.append('Temple City High School') 
+col2.append('Temple City High School')
+
+data_dict['High School'] = col2
+print(len(data_dict['High School']))
