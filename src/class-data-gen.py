@@ -1,5 +1,6 @@
 import pandas as pd
-from genderPredictor import genderPredictor
+!pip install git+git://github.com/clintval/gender_predictor.git
+from gender_predictor import genderPredictor
 
 col1 = []
 col1.append('Alexis Chau')
