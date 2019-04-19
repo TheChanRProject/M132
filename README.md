@@ -29,55 +29,13 @@ Agenda:
 
 ## Second and Third Half Hour :
 
-- Python for Data Science Fundamentals
-	- Data Types and Variables 
-	- Data Structures 
-		- Lists
-		- Dictionaries 
-	- Loops and List Comprehensions
-	- Numpy 
-		- Dimensionality and Arrays 
-		- Dot Product and Cross Product 
-		- Solving Systems of Equations
-		- Algebraic Operations
-		- Statistical Operations 
-	- Pandas
-		- Series and DataFrames 
-		- Exploratory Data Analysis
-		- Joining and Merging 
-		- Dealing with Missing Data 
+- Learning Python Through an Analysis of the Class Participants 
 
-	- Matplotlib and Seaborn 
-		- Histograms
-		- Distribution Plots
-		- Pie Charts 
-		- Word Clouds 
-		- Regression Plots 
+## Fast Food in the City 
 
-## Fourth, Fifth, Sixth Half Hour :
+- Folium, Pandas, Geospatial Analysis 
 
-- Linear Regression 
-	- Mathematical Foundations
-		- Partial Derivatives
-		- Systems of Linear Equations
-		- Sample Means 
-	- Numpy Implementation 
+## The Sustaining Businessperson Game 
 
-	- Boston Housing Activity Part 1 
-
-- Multiple Linear Regression 
-	- Mathematical Foundations
-		- Matrices and Vector Transposition 
-		- Standard Linear Form Representation 
-	- Numpy Implementation 
-	
-	- Boston Housing Activity Part 2 
-
-- Conclusion
-	- Resources for Further Learning
-	- Summer Internship Opportunities 
-	- M133: Applied Data Science 
-	- Southern California Data Science and Datapreneurs Meetup
-	- Bidding a Temporary Adieu 
-	
+- Using Machine Learning to build a positive cash flow model for survival 	
 		 
