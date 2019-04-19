@@ -1,5 +1,5 @@
 import pandas as pd
-from genderPredictor import genderPredictor
+from src.genderPredictor import genderPredictor
 
 col1 = []
 col1.append('Alexis Chau')
