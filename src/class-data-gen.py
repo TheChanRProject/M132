@@ -84,6 +84,11 @@ print(len(data_dict['Grade']))
 gen = GenderPredictor()
 gen.train_and_test()
 
-
 col4 = [gen.classify(i.split(" ")[0]) for i in col1]
 print(col4)
+data_dict['Gender'] = col4
+
+df = pd.DataFrame.from_dict(data_dict)
+df.head()
+df.replace('M', 'male', inplace=True)
+df.replace('F', 'female', inplace=True)
