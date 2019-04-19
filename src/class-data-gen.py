@@ -22,3 +22,6 @@ col1.append('Julia Wong')
 col1.append('Andrew Sung')
 col1.append('Jeffrey Chou')
 print(len(col1))
+data_dict = {}
+data_dict['Name'] = col1
+print(len(data_dict['Name']))
