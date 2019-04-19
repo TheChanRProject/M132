@@ -81,8 +81,8 @@ print(len(data_dict['Grade']))
 
 # Getting the gender
 
-gen = genderPredictor()
-
+gen = GenderPredictor()
+gen.train_and_test()
 
 
 col4 = [gen.classify(i.split(" ")[0]) for i in col1]
