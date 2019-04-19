@@ -5,7 +5,7 @@ USSSALoader.py
 """
 import os
 import re
-import urllib2
+import urllib3
 from zipfile import ZipFile
 import csv
 import pickle
